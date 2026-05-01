@@ -2,7 +2,9 @@
 
 A simple interactive web app that changes the background color of the page to a random color on every button click.
 
+## Live Demo
 
+[Click here](https://priyanshuroydev.github.io/Simple-Color-Changer-Website/)
 ---
 
 ## How It Works
